@@ -40,7 +40,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="CF1C:6FA0:4907C7B:6C711BE:5BA6368C" data-pjax-transient>
+  <meta name="request-id" content="D044:6FA1:3BBED7D:58B1BC0:5BA63AB8" data-pjax-transient>
 
 
   
@@ -51,7 +51,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="CF1C:6FA0:4907C7B:6C711BE:5BA6368C" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D044:6FA1:3BBED7D:58B1BC0:5BA63AB8" /><meta name="octolytics-dimension-region_edge" content="iad" /><meta name="octolytics-dimension-region_render" content="iad" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -69,7 +69,7 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="Yzc1ZGFiMmI3NWYwY2I2NTQxY2MzZWUzZjgzYThmNWM2YjdmMWJlMjQ0NGZjNjc5ZTNmODU0ZDg4NzIyZDkxYXx7InJlbW90ZV9hZGRyZXNzIjoiODYuMjM1LjE2LjE3MCIsInJlcXVlc3RfaWQiOiJDRjFDOjZGQTA6NDkwN0M3Qjo2QzcxMUJFOjVCQTYzNjhDIiwidGltZXN0YW1wIjoxNTM3NjE5NTk2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="Y2ZjNzQ5ZGFlNGE1NTI1NGZlZmZhN2NmMGFiZmM1ZjFjMzIwMjQ4N2I0ZjJiYWRlMmY0NGZiZWQ1NjAzMmE0YXx7InJlbW90ZV9hZGRyZXNzIjoiODYuMjM1LjE2LjE3MCIsInJlcXVlc3RfaWQiOiJEMDQ0OjZGQTE6M0JCRUQ3RDo1OEIxQkMwOjVCQTYzQUI4IiwidGltZXN0YW1wIjoxNTM3NjIwNjY0LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="DASHBOARD_V2_LAYOUT_OPT_IN,EXPLORE_DISCOVER_REPOSITORIES,UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,QUOTE_MARKDOWN">
 
@@ -121,7 +121,7 @@
           <p class="m-0">We recommend upgrading to the latest <a href="https://www.microsoft.com/en-us/windows/microsoft-edge">Microsoft Edge</a>, <a href="https://chrome.google.com">Google Chrome</a>, or <a href="https://mozilla.org/firefox/">Firefox</a>.</p>
       </div>
       <div class="d-flex flex-items-center flex-shrink-0 ">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_unsupported_browser" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ovfgGtQHvE9MRigXF2WlVmEYGkPRUVYfP+q2YjMOUHpD7lbU8nlmHFCa8fRZdMmj0dvyZEq1tjqfOLApdT+GnA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_unsupported_browser" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="fwMgyfv8+KXBVIhrfpvpoiJYMwU134WeU/aM0WuwCTKeGpYH3YIi9t2IUYgwioVXkpvbIq47ZbvzJIqaLYHf1A==" />
           <button type="submit" class="btn btn-danger">Ignore</button>
 </form>        <a href="https://help.github.com/articles/supported-browsers" class="btn ml-2">Learn more</a>
       </div>
@@ -195,7 +195,7 @@
           autocapitalize="off"
           aria-autocomplete="list"
           aria-controls="jump-to-results"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=HrVgHWINQOmTanijPz2GhTjN4Ojmaz3AtSkEeyO2fJIo5TFVvfq3uIaHSZbFGLiOAZOVVKyUz9Qcyh4wSrXJ1w=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=AZ1OTzc/VDvzHaz8WOVitJlKiTLyjLcPuZUDuy8QPzk3zR8H6MijaubwncmiwFy/oBT8jrhzRRsQdhnwRhOKfA=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -330,8 +330,8 @@
       </a>
 
     <a href="/alexpgm/video_file/network/members" class="social-count"
-       aria-label="2 users forked this repository">
-      2
+       aria-label="3 users forked this repository">
+      3
     </a>
   </li>
 </ul>
@@ -404,7 +404,7 @@
       <div class="signup-prompt-bg rounded-1">
       <div class="signup-prompt p-4 text-center mb-4 rounded-1">
         <div class="position-relative">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="2HiK2wNEb72ijmW9wyAyrEucrp0PsU2qotEEo63Gmkv4hpfM9Yb0j9sOPA7t7zQtCDLbOboBnQmvznZ9g2+6Fg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/site/dismiss_signup_prompt" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="rIBMWOlAfTQmMh6ou/dL4N8sobWMbspKQ4xDHrngIZOMflFPH4LmBl+yRxuVOE1hnILUETneGulOkzHAl0kBzg==" />
             <button type="submit" class="position-absolute top-0 right-0 btn-link link-gray" data-ga-click="(Logged out) Sign up prompt, clicked Dismiss, text:dismiss">
               Dismiss
             </button>
@@ -500,16 +500,49 @@
   </div>
 
 
-  <include-fragment src="/alexpgm/video_file/contributors/master/package.json" class="commit-tease commit-loader">
-    <div>
-      Fetching contributors&hellip;
-    </div>
+  
+  <div class="commit-tease">
+      <span class="float-right">
+        <a class="commit-tease-sha" href="/alexpgm/video_file/commit/183ba23213b0e5cdc994fc2c5fcc4b9bcfa3b806" data-pjax>
+          183ba23
+        </a>
+        <relative-time datetime="2018-08-30T11:30:17Z">Aug 30, 2018</relative-time>
+      </span>
+      <div>
+        <a rel="contributor" data-skip-pjax="true" data-hovercard-user-id="35507235" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/alexandrecoulay"><img class="avatar" src="https://avatars2.githubusercontent.com/u/35507235?s=40&amp;v=4" width="20" height="20" alt="@alexandrecoulay" /></a>
+        <a class="user-mention" rel="contributor" data-hovercard-user-id="35507235" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/alexandrecoulay">alexandrecoulay</a>
+          <a data-pjax="true" title="Add files via upload" class="message" href="/alexpgm/video_file/commit/183ba23213b0e5cdc994fc2c5fcc4b9bcfa3b806">Add files via upload</a>
+      </div>
 
     <div class="commit-tease-contributors">
-        <img alt="" class="loader-loading float-left" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32-EAF2F5.gif" width="16" height="16" />
-      <span class="loader-error">Cannot retrieve contributors at this time</span>
+      
+<details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
+  <summary class="btn-link" aria-haspopup="dialog"  >
+    
+    <span><strong>1</strong> contributor</span>
+  </summary>
+  <details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast " aria-label="Users who have contributed to this file">
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
+      </button>
+      <h3 class="Box-title">Users who have contributed to this file</h3>
     </div>
-</include-fragment>
+    
+        <ul class="list-style-none overflow-auto">
+            <li class="Box-row">
+              <a class="link-gray-dark no-underline" href="/alexandrecoulay">
+                <img class="avatar mr-2" alt="" src="https://avatars2.githubusercontent.com/u/35507235?s=40&amp;v=4" width="20" height="20" />
+                alexandrecoulay
+</a>            </li>
+        </ul>
+
+  </details-dialog>
+</details>
+      
+    </div>
+  </div>
+
 
 
   <div class="file">
@@ -649,7 +682,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.16124s from unicorn-71601669-zhr5b">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.17552s from unicorn-f4f997679-wmzln">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
